@@ -6,7 +6,7 @@
     <title>Ki Re Vera Kmn Achis</title>
 </head>
 <body>
-    <h1>Welcome to Ki Re Vera Kmn Achis</h1>
+    <h1> Ki Re Vera Kmn Achis</h1>
     <p>Choose an option:</p>
     <button onclick="showGood()">Good</button>
     <button onclick="showBad()">Bad</button>
